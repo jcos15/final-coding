@@ -28,7 +28,7 @@ public class TestPMT {
 		double f = 0;
 		boolean t = false;
 		PMT = Math.abs(FinanceLib.pmt(r, n, p, f, t));		
-		double PMTExpected = 1162.95;		
+		double PMTExpected = 381.67;		
 		assertEquals(PMTExpected, PMT, 0.01);
 	}
 

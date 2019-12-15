@@ -74,6 +74,8 @@ public class LoanCalcViewController implements Initializable   {
 		lblTotalPayemnts.setText("123");		
 		LocalDate localDate = PaymentStartDate.getValue();
 		
+		localDate.
+		
 		/*
 		 * When this button is clicked, you need to do the following:
 		 * 
